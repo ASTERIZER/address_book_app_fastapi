@@ -2,9 +2,9 @@
 Address book application where API users can create, update and delete addresses
 
 # prerequisites
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-pip install -r requirements.txt
+1. python -m venv venv
+2. source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+3. pip install -r requirements.txt
 
 **Command to run**
 # To have the termainal keep it reloading when changes made in script
